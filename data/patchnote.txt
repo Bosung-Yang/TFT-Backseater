@@ -1,0 +1,41 @@
+[25.03.05]
+LARGE CHANGES
+TRAITS
+Conqueror struggles in the late game unless you are already very far ahead. This buff will help the comp take your hard-earned early-game wins into the late-game in hopes that more late-game boards are wearing Noxian red. 
+Conqueror Stat increase per cashout: 5% ⇒ 8%
+1-COST UNITS
+Vex has been overlooked in the shadows for a while now. Not as good of an item-holder as Zyra, and not as fun to be around as other Yordles in the set (not you, Amumu). 
+Vex Ability Damage: 220/330/550/770 ⇒ 240/360/580/800
+Vex Ability Secondary Damage: 110/165/275/385 ⇒ 120/180/290/400
+2-COST UNITS
+Camille and Ziggs are twocarries that are just too niche to pull off. A small (sub 10%) buff should have them cutting and exploding their way back into the meta. 
+Camille AD: 52 ⇒ 55
+Ziggs Primary Ability Damage: 180/270/450 ⇒ 180/270/480
+3-COST UNITS
+Melee Gangplank has yet to make his mark this set. We’re putting citrus on sale this patch by allowing Gangplank to get to his cast one auto faster, meaning more healing, and single-target burst (cause that’s what a healthy amount of vitamin C can do I guess).
+Potentially the biggest buff in the patch is coming to the smallest kid on the biggest zombie-yeti-experiment. Nunu hasn’t been able to adequately frontline, even when his go-to comps (which are few) come online. We’ll talk more about Nunu in our learnings article for the set, but for now, take a big Mana buff. 
+Gangplank (Melee) Mana buff: 0/60 ⇒ 0/50
+Nunu & Willump Mana buff: 60/125 ⇒ 50/100
+Swain (Melee) Heal Per Second: 70/90/125 ⇒ 70/95/145
+4-COST UNITS
+Elise was designed to be a playable backliner in vertical Bruiser comps, but those comps often just slot Twitch/Sniper in for damage instead. We’re hoping a backline damage lift for her could open up some Elise carry opportunities, maybe even angles we’ve yet to see. 
+Elise (Ranged) Ability Damage: 220/330/1000 ⇒ 250/375/1200
+5-COST UNITS
+We’re giving Jinx’s AP ratio a small lift for her final cast, so that base Jinx and Spear of Shojin Jinx can pack a bit more Death into their final Rocket.
+Our Malzahar buff will have even an itemless Malzahar casting 1 auto-attack sooner every two casts, but it will be an even more impactful buff if you can activate Visionary. 
+Jinx Death Rocket AP Damage: 60/90/300 ⇒ 100/100/300
+Malzahar Mana buff: 30/95 ⇒ 30/90
+AUGMENTS
+Our Prismatic Augments that allow for early 6-cost access landed a bit weak, but we’ve been hesitant to buff them as their power ceilings (Getting to put your 6-cost in the Anomaly) are exceptionally high. Well, we’ve now seen more games played and strategies around these Augments sharpen, and we’re more comfortable with making their rewards a bit easier to chase.
+Speaking of chasing, Mad Chemist still hasn’t made Singed worth chasing, so we’re amping up the damage to bring the League idiom of ‘don’t chase the Singed’ into TFT. 
+Backup Attack Speed: 10% ⇒ 12%
+Glass Cannon I Damage Amp: 12% ⇒ 15%
+Mad Chemist (Singed) Ability Damage: 140/210/315/420 ⇒ 155/235/350/470
+Forbidden Magic AD Per Stack: 2% ⇒ 3%, HP Per Stack: 10 ⇒ 15
+Trait: Sisters Jinx Attack Speed Buff: 75% ⇒ 80%
+Trait: Sisters Both Buff Duration: 7 ⇒ 10 sec
+Glorious Evolution (Viktor) Upgrades Required: 6 ⇒ 4
+Golden Egg: some of the loot tables have increased in value
+Wand Overflow Attack Speed Per Rod: 4% ⇒ 5%
+What You Really Are (Warwick) Player Damage required: 35 ⇒ 20
+What You Really Are (Warwick) Double-Up Player Damage required: 20 ⇒ 12
