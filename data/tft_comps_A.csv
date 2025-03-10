@@ -1,0 +1,8 @@
+Rank,Deck Name,Champion List,Average Place,Pick Rate,Win Rate
+A,Emissary Garen,"['Garen', 'Corki', 'Ambessa', 'Nami', 'Malzahar', 'Rumble', 'Rell', 'Tristana', 'Vladimir']",4.27,0.06,14.4%
+A,Rebel Illaoi,"['Illaoi', 'Zoe', 'Jinx', 'Sett', 'Rumble', 'Ekko', 'Ezreal', 'Akali', 'Irelia']",4.28,0.52,15.4%
+A,Bruiser Twitch,"['Twitch', 'Dr. Mundo', 'Elise', 'Caitlyn', 'Renni', 'Nunu', 'Sett', 'Steb', 'Trundle']",4.31,0.30,11.1%
+A,Sniper Twitch,"['Twitch', 'Dr. Mundo', 'Caitlyn', 'Elise', 'Jayce', 'Blitzcrank', ""Kog'Maw"", 'Nunu', 'Maddie']",4.32,0.13,11.8%
+A,Sorcerer Garen,"['Garen', 'Swain', 'LeBlanc', 'Zoe', 'Ambessa', 'Elise', 'Nami', 'Tristana', 'Vladimir']",4.35,0.39,13.5%
+A,Quickstriker Nocturne,"['Nocturne', ""Kog'Maw"", 'Blitzcrank', 'Ambessa', 'Caitlyn', 'Twisted Fate', 'Akali', 'Amumu']",4.35,0.15,9.9%
+A,Watcher Zeri,"['Zeri', 'Scar', 'Garen', ""Kog'Maw"", 'Vander', 'Vladimir', 'Amumu', 'Darius']",4.37,0.46,8.8%
