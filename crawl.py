@@ -2,9 +2,11 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
+import time
 driver = webdriver.Chrome()
 driver.implicitly_wait(10)
 driver.get("https://www.metatft.com/comps")
+time.sleep(10) # for loading
 
 def crawl_comp(target_rank = "S"):
     div_elements = driver.find_elements(By.XPATH, '//div[@class="CompRow Tier'+target_rank+'"]')
