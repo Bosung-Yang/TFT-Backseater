@@ -1,0 +1,1039 @@
+2만한 가치2만한 가치
+S
+GoldEconomy
+2인조2인조
+B
+ItemsItems
+GoldEconomy
+4단계 한 쌍4단계 한 쌍
+B
+CombatCombat
+4후지원4후지원
+A
+GoldEconomy
+5등급5등급
+S
+ItemsItems
+CombatCombat
+가시 박힌 갑옷가시 박힌 갑옷
+S
+ItemsItems
+CombatCombat
+가족 문장가족 문장
+B
+TraitsTrait
+가족 왕관가족 왕관
+C
+TraitsTrait
+가지 뻗기가지 뻗기
+S
+StrategicStrategic
+간이 대장간간이 대장간
+S
+ItemsItems
+감시자 문장감시자 문장
+B
+TraitsTrait
+감시자 왕관감시자 왕관
+C
+TraitsTrait
+강력한 보호막강력한 보호막
+A
+CombatCombat
+거대한 거인거대한 거인
+B
+StrategicStrategic
+거울의 전당거울의 전당
+D
+CombatCombat
+StrategicStrategic
+검무검무
+A
+CombatCombat
+검은 장미단 문장검은 장미단 문장
+A
+TraitsTrait
+검은 장미단 왕관검은 장미단 왕관
+B
+TraitsTrait
+격전의 지하도시격전의 지하도시
+S
+GoldEconomy
+결과 예측결과 예측
+C
+GoldEconomy
+계산된 강화계산된 강화
+B
+CombatCombat
+고귀한 모험고귀한 모험
+A
+StrategicStrategic
+고물 더미 꼭대기고물 더미 꼭대기
+A
+ItemsItems
+TraitsTrait
+고물상 문장고물상 문장
+B
+TraitsTrait
+고물상 왕관고물상 왕관
+B
+TraitsTrait
+고전압고전압
+B
+ItemsItems
+CombatCombat
+골렘화골렘화
+B
+CombatCombat
+StrategicStrategic
+공중전공중전
+A
+CombatCombat
+TraitsTrait
+공허소환사공허소환사
+A
+CombatCombat
+TraitsTrait
+공허의 무리공허의 무리
+A
+CombatCombat
+공허의 무리공허의 무리
+A
+CombatCombat
+과다치유과다치유
+B
+CombatCombat
+과적과적
+S
+GoldEconomy
+교환의 장교환의 장
+B
+GoldEconomy
+구독 서비스구독 서비스
+C
+GoldEconomy
+국왕시해자국왕시해자
+S
+GoldEconomy
+균열 수정균열 수정
+C
+CombatCombat
+TraitsTrait
+극진한 헌신극진한 헌신
+C
+GoldEconomy
+StrategicStrategic
+근위대근위대
+B
+ItemsItems
+CombatCombat
+금단의 마법금단의 마법
+B
+CombatCombat
+TraitsTrait
+금방 올게금방 올게
+A
+ItemsItems
+ScalingScaling
+급매급매
+A
+GoldEconomy
+기다림의 미학기다림의 미학
+S
+GoldEconomy
+ScalingScaling
+StrategicStrategic
+기다림의 미학 II기다림의 미학 II
+C
+GoldEconomy
+기동타격대 문장기동타격대 문장
+B
+TraitsTrait
+기동타격대 왕관기동타격대 왕관
+C
+TraitsTrait
+꼬꼬마 거인꼬꼬마 거인
+C
+GoldEconomy
+꼬꼬마 거인+꼬꼬마 거인+
+C
+GoldEconomy
+StrategicStrategic
+꿰뚫는 연꽃 I꿰뚫는 연꽃 I
+A
+CombatCombat
+꿰뚫는 연꽃 II꿰뚫는 연꽃 II
+A
+CombatCombat
+끈끈한 우정끈끈한 우정
+C
+GoldEconomy
+끈질긴 연구끈질긴 연구
+A
+GoldEconomy
+난동꾼 문장난동꾼 문장
+B
+TraitsTrait
+난동꾼 왕관난동꾼 왕관
+B
+TraitsTrait
+넘치는 대검넘치는 대검
+C
+ItemsItems
+넘치는 지팡이넘치는 지팡이
+C
+ItemsItems
+넘치는 허리띠넘치는 허리띠
+A
+ItemsItems
+CombatCombat
+녹서스의 단두대녹서스의 단두대
+A
+CombatCombat
+TraitsTrait
+놀이터에 온 걸 환영해놀이터에 온 걸 환영해
+B
+GoldEconomy
+TraitsTrait
+눈에는 눈눈에는 눈
+A
+ItemsItems
+눈에는 눈+눈에는 눈+
+B
+ItemsItems
+ScalingScaling
+다 쓸 데가 있다니까 I다 쓸 데가 있다니까 I
+B
+GoldEconomy
+다른 태생다른 태생
+S
+CombatCombat
+단일 조합 사수단일 조합 사수
+S
+CombatCombat
+ScalingScaling
+달빛달빛
+B
+CombatCombat
+대격변 생성기대격변 생성기
+C
+GoldEconomy
+대관식대관식
+S
+CombatCombat
+덩치 큰 친구들 I덩치 큰 친구들 I
+B
+CombatCombat
+덩치 큰 친구들 II덩치 큰 친구들 II
+A
+CombatCombat
+덩치 큰 친구들 III덩치 큰 친구들 III
+S
+CombatCombat
+도굴꾼 I도굴꾼 I
+D
+ItemsItems
+ScalingScaling
+도굴꾼 II도굴꾼 II
+D
+ItemsItems
+ScalingScaling
+도둑 무리 I도둑 무리 I
+S
+ItemsItems
+돈벼락돈벼락
+B
+GoldEconomy
+돈벼락+돈벼락+
+A
+GoldEconomy
+돌연변이 발현돌연변이 발현
+A
+CombatCombat
+TraitsTrait
+두 가지 목적두 가지 목적
+B
+GoldEconomy
+뒤바뀐 운명뒤바뀐 운명
+C
+ItemsItems
+ScalingScaling
+StrategicStrategic
+또 다른 이상 현상또 다른 이상 현상
+B
+CombatCombat
+ScalingScaling
+레벨 업!레벨 업!
+B
+GoldEconomy
+로켓 컬렉션로켓 컬렉션
+A
+CombatCombat
+TraitsTrait
+로켓 컬렉션+로켓 컬렉션+
+B
+CombatCombat
+TraitsTrait
+마나순환 I마나순환 I
+S
+CombatCombat
+마나순환 II마나순환 II
+S
+CombatCombat
+마법 주사위마법 주사위
+A
+StrategicStrategic
+마법사 문장마법사 문장
+S
+TraitsTrait
+마법사 왕관마법사 왕관
+A
+TraitsTrait
+마지막 손질마지막 손질
+B
+ItemsItems
+맑은 정신맑은 정신
+C
+GoldEconomy
+매복자 문장매복자 문장
+A
+TraitsTrait
+매복자 왕관매복자 왕관
+B
+TraitsTrait
+맹렬한 공세맹렬한 공세
+C
+CombatCombat
+먼 친구먼 친구
+B
+CombatCombat
+모두를 위한 하나 I모두를 위한 하나 I
+C
+CombatCombat
+모두를 위한 하나 II모두를 위한 하나 II
+C
+CombatCombat
+미래 지향적 사고미래 지향적 사고
+S
+GoldEconomy
+미친 화학자미친 화학자
+C
+CombatCombat
+반군 문장반군 문장
+A
+ScalingScaling
+반군 왕관반군 왕관
+A
+TraitsTrait
+반짝이는 것들반짝이는 것들
+S
+GoldEconomy
+반짝이는 것들+반짝이는 것들+
+S
+GoldEconomy
+방랑하는 조련사 I방랑하는 조련사 I
+B
+CombatCombat
+StrategicStrategic
+방랑하는 조련사 II방랑하는 조련사 II
+A
+CombatCombat
+StrategicStrategic
+배부른 주문술사배부른 주문술사
+B
+CombatCombat
+법 집행법 집행
+B
+GoldEconomy
+CombatCombat
+TraitsTrait
+별이 빛나는 밤별이 빛나는 밤
+S
+GoldEconomy
+별이 빛나는 밤+별이 빛나는 밤+
+S
+GoldEconomy
+보호막 강타보호막 강타
+B
+CombatCombat
+TraitsTrait
+복제복제
+B
+ItemsItems
+복제 시설복제 시설
+B
+CombatCombat
+부스러기부스러기
+A
+ItemsItems
+GoldEconomy
+ScalingScaling
+부식부식
+A
+CombatCombat
+분노 조절 문제분노 조절 문제
+A
+ItemsItems
+CombatCombat
+StrategicStrategic
+불운 방지불운 방지
+A
+CombatCombat
+불장난불장난
+B
+ItemsItems
+CombatCombat
+불타는 영혼 I불타는 영혼 I
+A
+CombatCombat
+불타는 영혼 II불타는 영혼 II
+S
+CombatCombat
+붉고 푸른 효과붉고 푸른 효과
+B
+ItemsItems
+GoldEconomy
+빌붙기빌붙기
+A
+CombatCombat
+빛비늘 정수빛비늘 정수
+A
+ItemsItems
+GoldEconomy
+빛의 속도빛의 속도
+C
+ItemsItems
+삼인방 I삼인방 I
+B
+GoldEconomy
+CombatCombat
+삼인방 II삼인방 II
+B
+GoldEconomy
+CombatCombat
+상점 오류상점 오류
+A
+GoldEconomy
+ScalingScaling
+새로고침 이월새로고침 이월
+C
+GoldEconomy
+새로고침의 날 I새로고침의 날 I
+S
+GoldEconomy
+새로운 시대새로운 시대
+A
+GoldEconomy
+새로운 시대+새로운 시대+
+A
+GoldEconomy
+생일 선물생일 선물
+B
+GoldEconomy
+생존자생존자
+D
+GoldEconomy
+ScalingScaling
+서열 상승 I서열 상승 I
+B
+CombatCombat
+서열 상승 II서열 상승 II
+B
+CombatCombat
+선도자 문장선도자 문장
+A
+TraitsTrait
+선도자 왕관선도자 왕관
+C
+TraitsTrait
+수호자의 선택수호자의 선택
+B
+ItemsItems
+ScalingScaling
+수호자의 친구수호자의 친구
+A
+GoldEconomy
+수호자의 호의수호자의 호의
+B
+ItemsItems
+ScalingScaling
+숭고한 희생숭고한 희생
+B
+CombatCombat
+슈퍼스타 I슈퍼스타 I
+B
+CombatCombat
+슈퍼스타 II슈퍼스타 II
+B
+GoldEconomy
+CombatCombat
+ScalingScaling
+스승 I스승 I
+B
+TraitsTrait
+스승 II스승 II
+A
+CombatCombat
+슬쩍하기슬쩍하기
+B
+GoldEconomy
+시계태엽 윤활유시계태엽 윤활유
+B
+CombatCombat
+신중한 제작신중한 제작
+S
+ItemsItems
+ScalingScaling
+실험체 문장실험체 문장
+S
+TraitsTrait
+실험체 왕관실험체 왕관
+A
+TraitsTrait
+쓰레기 청소부쓰레기 청소부
+C
+CombatCombat
+아드레날린 폭발아드레날린 폭발
+C
+CombatCombat
+TraitsTrait
+아이템 꾸러미 I아이템 꾸러미 I
+A
+ItemsItems
+아이템 수집가 I아이템 수집가 I
+A
+CombatCombat
+아이템 수집가 II아이템 수집가 II
+A
+CombatCombat
+아이템 숙성아이템 숙성
+D
+CombatCombat
+아카데미 문장아카데미 문장
+B
+TraitsTrait
+아카데미 왕관아카데미 왕관
+C
+TraitsTrait
+악의적 수익 창출악의적 수익 창출
+B
+GoldEconomy
+야수를 풀어라야수를 풀어라
+B
+ItemsItems
+CombatCombat
+양보다 질양보다 질
+A
+CombatCombat
+어수선한 마음어수선한 마음
+C
+GoldEconomy
+연결 불가연결 불가
+A
+GoldEconomy
+연속 타격연속 타격
+A
+CombatCombat
+영감적인 비문영감적인 비문
+A
+CombatCombat
+영광스러운 진화영광스러운 진화
+C
+ItemsItems
+ScalingScaling
+StrategicStrategic
+영웅 꾸러미영웅 꾸러미
+A
+GoldEconomy
+영원한 브론즈 I영원한 브론즈 I
+B
+CombatCombat
+영원한 브론즈 II영원한 브론즈 II
+A
+CombatCombat
+예상된 예상 밖의 결과예상된 예상 밖의 결과
+S
+ItemsItems
+GoldEconomy
+StrategicStrategic
+오늘은 아니야오늘은 아니야
+B
+ItemsItems
+CombatCombat
+왕관의 의지왕관의 의지
+B
+ItemsItems
+CombatCombat
+요리용 냄비요리용 냄비
+S
+CombatCombat
+ScalingScaling
+StrategicStrategic
+요지부동요지부동
+S
+CombatCombat
+우정과 유령우정과 유령
+S
+CombatCombat
+위력 강화위력 강화
+B
+ScalingScaling
+StrategicStrategic
+위약 효과위약 효과
+C
+GoldEconomy
+CombatCombat
+위약 효과+위약 효과+
+A
+GoldEconomy
+CombatCombat
+위험한 행보위험한 행보
+B
+GoldEconomy
+유리 대포 I유리 대포 I
+C
+CombatCombat
+유리 대포 II유리 대포 II
+A
+CombatCombat
+유연함유연함
+B
+StrategicStrategic
+유용한 금속유용한 금속
+A
+ItemsItems
+CombatCombat
+육중한 강타육중한 강타
+C
+CombatCombat
+TraitsTrait
+은수저은수저
+B
+GoldEconomy
+응당한 대가응당한 대가
+C
+GoldEconomy
+의무병의무병
+A
+CombatCombat
+이상한 금요일이상한 금요일
+B
+ItemsItems
+이상한 금요일 +이상한 금요일 +
+C
+ItemsItems
+이제 내가 주인공이야이제 내가 주인공이야
+B
+CombatCombat
+이중 기술이중 기술
+A
+GoldEconomy
+이중 형태이중 형태
+A
+CombatCombat
+TraitsTrait
+임무 재시작임무 재시작
+S
+GoldEconomy
+입맛대로 고르는 부품입맛대로 고르는 부품
+A
+ItemsItems
+자동기계 문장자동기계 문장
+B
+TraitsTrait
+자동기계 왕관자동기계 왕관
+C
+TraitsTrait
+작은 친구들작은 친구들
+A
+CombatCombat
+잔혹한 복수잔혹한 복수
+S
+CombatCombat
+장기 투자장기 투자
+B
+StrategicStrategic
+재빠른 무장재빠른 무장
+A
+ItemsItems
+GoldEconomy
+재빠른 무장+재빠른 무장+
+A
+ItemsItems
+GoldEconomy
+재활용 쓰레기통재활용 쓰레기통
+B
+ItemsItems
+재활용 쓰레기통재활용 쓰레기통
+A
+ItemsItems
+재활용 쓰레기통+재활용 쓰레기통+
+B
+ItemsItems
+저격수 문장저격수 문장
+B
+TraitsTrait
+저격수 왕관저격수 왕관
+A
+TraitsTrait
+저격수의 은신처저격수의 은신처
+B
+CombatCombat
+TraitsTrait
+전략가의 주방전략가의 주방
+S
+ItemsItems
+CombatCombat
+전리품 I전리품 I
+B
+GoldEconomy
+전리품 II전리품 II
+C
+GoldEconomy
+전리품 III전리품 III
+C
+GoldEconomy
+전리품 폭발전리품 폭발
+A
+ItemsItems
+GoldEconomy
+전투의 상흔전투의 상흔
+C
+CombatCombat
+젊음, 광란, 자유젊음, 광란, 자유
+C
+ItemsItems
+GoldEconomy
+점수판 등반가점수판 등반가
+B
+CombatCombat
+ScalingScaling
+점심값점심값
+C
+GoldEconomy
+점화단 문장점화단 문장
+B
+TraitsTrait
+점화단 왕관점화단 왕관
+C
+TraitsTrait
+정교한 공예정교한 공예
+A
+GoldEconomy
+정렬정렬
+B
+CombatCombat
+정복자 문장정복자 문장
+B
+TraitsTrait
+정복자 왕관정복자 왕관
+A
+TraitsTrait
+정신 결속정신 결속
+B
+CombatCombat
+조작된 상점+조작된 상점+
+B
+GoldEconomy
+종목 분산 투자종목 분산 투자
+B
+GoldEconomy
+종목 분산 투자+종목 분산 투자+
+B
+GoldEconomy
+주사위 던지기주사위 던지기
+A
+ItemsItems
+주시자 문장주시자 문장
+A
+TraitsTrait
+주시자 왕관주시자 왕관
+C
+TraitsTrait
+죽음의 고통죽음의 고통
+B
+ItemsItems
+ScalingScaling
+준비 운동 I준비 운동 I
+A
+CombatCombat
+ScalingScaling
+준비 운동 II준비 운동 II
+B
+CombatCombat
+ScalingScaling
+준비 운동 III준비 운동 III
+A
+CombatCombat
+ScalingScaling
+중심 잡기중심 잡기
+C
+CombatCombat
+지배지배
+B
+CombatCombat
+TraitsTrait
+지배자 문장지배자 문장
+A
+TraitsTrait
+지배자 왕관지배자 왕관
+B
+TraitsTrait
+지원 상자지원 상자
+A
+CombatCombat
+지원 채굴지원 채굴
+A
+CombatCombat
+지원 채굴+지원 채굴+
+A
+CombatCombat
+진심 발휘진심 발휘
+S
+CombatCombat
+StrategicStrategic
+진정한 모습진정한 모습
+C
+ItemsItems
+ScalingScaling
+StrategicStrategic
+집행자 문장집행자 문장
+B
+TraitsTrait
+집행자 왕관집행자 왕관
+B
+TraitsTrait
+찬란한 유물찬란한 유물
+B
+ItemsItems
+찬란한 재조정기찬란한 재조정기
+A
+ItemsItems
+참는 자에게 복을참는 자에게 복을
+A
+GoldEconomy
+창의 의지창의 의지
+B
+ItemsItems
+CombatCombat
+철퇴의 의지철퇴의 의지
+A
+ItemsItems
+CombatCombat
+체력이 곧 재산 I체력이 곧 재산 I
+A
+GoldEconomy
+CombatCombat
+체력이 곧 재산 II체력이 곧 재산 II
+A
+GoldEconomy
+CombatCombat
+최대치최대치
+S
+GoldEconomy
+CombatCombat
+출세가도출세가도
+A
+GoldEconomy
+출정출정
+D
+ItemsItems
+GoldEconomy
+ScalingScaling
+친구 만들기!친구 만들기!
+B
+GoldEconomy
+StrategicStrategic
+큰 꾸러미큰 꾸러미
+A
+ItemsItems
+투사 문장투사 문장
+B
+TraitsTrait
+투사 왕관투사 왕관
+B
+TraitsTrait
+투자 전략 I투자 전략 I
+A
+CombatCombat
+ScalingScaling
+투자 전략 II투자 전략 II
+S
+GoldEconomy
+CombatCombat
+ScalingScaling
+투자+투자+
+B
+GoldEconomy
+투자++투자++
+B
+GoldEconomy
+트롤 나가신다트롤 나가신다
+S
+CombatCombat
+특성 추적자특성 추적자
+B
+StrategicStrategic
+특성: 계엄령특성: 계엄령
+S
+CombatCombat
+TraitsTrait
+StrategicStrategic
+특성: 또 다른 결말특성: 또 다른 결말
+A
+CombatCombat
+TraitsTrait
+StrategicStrategic
+특성: 뜻밖의 2인조특성: 뜻밖의 2인조
+B
+CombatCombat
+TraitsTrait
+StrategicStrategic
+특성: 모략특성: 모략
+A
+TraitsTrait
+StrategicStrategic
+특성: 배신특성: 배신
+A
+CombatCombat
+TraitsTrait
+StrategicStrategic
+특성: 자매특성: 자매
+B
+CombatCombat
+TraitsTrait
+StrategicStrategic
+특성: 재회특성: 재회
+S
+CombatCombat
+TraitsTrait
+StrategicStrategic
+특성: 천재특성: 천재
+B
+CombatCombat
+TraitsTrait
+StrategicStrategic
+파랗게 물들여라파랗게 물들여라
+S
+CombatCombat
+ScalingScaling
+파묻힌 보물 III파묻힌 보물 III
+S
+ItemsItems
+파이트 머니파이트 머니
+B
+ItemsItems
+판도라의 대기석판도라의 대기석
+S
+GoldEconomy
+판도라의 아이템판도라의 아이템
+B
+ItemsItems
+판도라의 아이템 II판도라의 아이템 II
+B
+ItemsItems
+ScalingScaling
+판도라의 아이템 III판도라의 아이템 III
+B
+ItemsItems
+편식편식
+B
+GoldEconomy
+StrategicStrategic
+포수 문장포수 문장
+B
+TraitsTrait
+포수 왕관포수 왕관
+C
+TraitsTrait
+포탑 방어포탑 방어
+A
+CombatCombat
+프리즘 공급프리즘 공급
+B
+ItemsItems
+GoldEconomy
+ScalingScaling
+프리즘 티켓프리즘 티켓
+A
+GoldEconomy
+피나는 훈련피나는 훈련
+B
+CombatCombat
+TraitsTrait
+핏빛 계약핏빛 계약
+A
+CombatCombat
+하나, 둘, 다섯!하나, 둘, 다섯!
+B
+ItemsItems
+GoldEconomy
+하나, 둘, 셋하나, 둘, 셋
+B
+GoldEconomy
+학술 연구학술 연구
+A
+ItemsItems
+TraitsTrait
+행운의 장갑행운의 장갑
+S
+ItemsItems
+행운의 장갑+행운의 장갑+
+S
+ItemsItems
+헤지 펀드헤지 펀드
+C
+GoldEconomy
+협력 I협력 I
+B
+ItemsItems
+GoldEconomy
+협력 II협력 II
+A
+GoldEconomy
+CombatCombat
+혼돈의 부름혼돈의 부름
+S
+StrategicStrategic
+환한 달빛환한 달빛
+S
+CombatCombat
+황금 더미황금 더미
+C
+GoldEconomy
+황금 알황금 알
+C
+ItemsItems
+GoldEconomy
+ScalingScaling
+황금빛 발견황금빛 발견
+B
+GoldEconomy
+후반 전문가후반 전문가
+C
+GoldEconomy
+ScalingScaling
+후발 주자후발 주자
+S
+ScalingScaling
+StrategicStrategic
+후방 지원후방 지원
+C
+CombatCombat
+훈련 봇 변환훈련 봇 변환
+B
+CombatCombat
+StrategicStrategic
+휴대용 대장간휴대용 대장간
+S
+ItemsItems
+흡혈의 활력흡혈의 활력
+B
+CombatCombat
+StrategicStrategic
+흥청망청흥청망청
+C
+GoldEconomy
+희생양희생양
+B
+GoldEconomy
