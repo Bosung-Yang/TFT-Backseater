@@ -56,4 +56,4 @@ def remove_redundancy():
     print(df)
     df.to_csv('./data/augment-preprocessed.csv', index=False)
     
-remove_redundancy()
+#remove_redundancy()

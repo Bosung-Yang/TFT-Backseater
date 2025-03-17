@@ -28,6 +28,16 @@ def crawl_item(champion_name = "Heimerdinger"):
             with open("tft_items_" + champion_name + ".txt", "a") as f:
                 f.write(div.text.split("\n")[1])
 
+def crawl_iteminfo():
+    driver.get("https://www.metatft.com/items/normal")
+    time.sleep(3)
+    elements = driver.find_elements("xpath", "//div[@class='StatTableContainer']//a[@class='StatLink']")
+    for element in elements:
+        href_value = element.get_attribute("href")
+        print("Href:", href_value)
+        with open("href_iteminfo.txt", "a") as f:
+            f.write(href_value + "\n")
+
 def crawl_champname():
     driver.get("https://www.metatft.com/units")
     time.sleep(3)
@@ -42,8 +52,4 @@ def crawl_champname():
 
 #crawl_item("Heimerdinger")
 #crawl_champname()
-
-with open("href_champnames.txt", "r") as f:
-    for line in f:
-        crawl_item_by_href(line.strip())
-driver.quit()
+crawl_iteminfo()
