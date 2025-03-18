@@ -1,0 +1,306 @@
+Augment,Tier,Type
+2만한 가치,S,['Economy']
+2인조,B,"['Items', 'Economy']"
+4단계 한 쌍,B,['Combat']
+4후지원,A,['Economy']
+5등급,S,"['Items', 'Combat']"
+가시 박힌 갑옷,S,"['Items', 'Combat']"
+가족 문장,B,['Economy']
+가족 왕관,C,['Economy']
+가지 뻗기,S,['Strategic']
+간이 대장간,S,['Items']
+감시자 문장,B,['Economy']
+감시자 왕관,C,['Economy']
+강력한 보호막,A,['Combat']
+거대한 거인,B,['Strategic']
+거울의 전당,D,"['Combat', 'Strategic']"
+검무,A,['Combat']
+검은 장미단 문장,A,['Economy']
+검은 장미단 왕관,B,['Economy']
+격전의 지하도시,S,['Economy']
+결과 예측,C,['Economy']
+계산된 강화,B,['Combat']
+고귀한 모험,A,['Strategic']
+고물 더미 꼭대기,A,"['Items', 'Economy']"
+고물상 문장,B,['Economy']
+고물상 왕관,B,['Economy']
+고전압,B,"['Items', 'Combat']"
+골렘화,B,"['Combat', 'Strategic']"
+공중전,A,"['Combat', 'Economy']"
+공허소환사,A,"['Combat', 'Economy']"
+공허의 무리,A,['Combat']
+공허의 무리,A,['Combat']
+과다치유,B,['Combat']
+과적,S,['Economy']
+교환의 장,B,['Economy']
+구독 서비스,C,['Economy']
+국왕시해자,S,['Economy']
+균열 수정,C,"['Combat', 'Economy']"
+극진한 헌신,C,"['Economy', 'Strategic']"
+근위대,B,"['Items', 'Combat']"
+금단의 마법,B,"['Combat', 'Economy']"
+금방 올게,A,"['Items', 'Scaling']"
+급매,A,['Economy']
+기다림의 미학,S,"['Economy', 'Scaling', 'Strategic']"
+기다림의 미학 II,C,['Economy']
+기동타격대 문장,B,['Economy']
+기동타격대 왕관,C,['Economy']
+꼬꼬마 거인,C,['Economy']
+꼬꼬마 거인+,C,"['Economy', 'Strategic']"
+꿰뚫는 연꽃 I,A,['Combat']
+꿰뚫는 연꽃 II,A,['Combat']
+끈끈한 우정,C,['Economy']
+끈질긴 연구,A,['Economy']
+난동꾼 문장,B,['Economy']
+난동꾼 왕관,B,['Economy']
+넘치는 대검,C,['Items']
+넘치는 지팡이,C,['Items']
+넘치는 허리띠,A,"['Items', 'Combat']"
+녹서스의 단두대,A,"['Combat', 'Economy']"
+놀이터에 온 걸 환영해,B,"['Economy', 'Economy']"
+눈에는 눈,A,['Items']
+눈에는 눈+,B,"['Items', 'Scaling']"
+다 쓸 데가 있다니까 I,B,['Economy']
+다른 태생,S,['Combat']
+단일 조합 사수,S,"['Combat', 'Scaling']"
+달빛,B,['Combat']
+대격변 생성기,C,['Economy']
+대관식,S,['Combat']
+덩치 큰 친구들 I,B,['Combat']
+덩치 큰 친구들 II,A,['Combat']
+덩치 큰 친구들 III,S,['Combat']
+도굴꾼 I,D,"['Items', 'Scaling']"
+도굴꾼 II,D,"['Items', 'Scaling']"
+도둑 무리 I,S,['Items']
+돈벼락,B,['Economy']
+돈벼락+,A,['Economy']
+돌연변이 발현,A,"['Combat', 'Economy']"
+두 가지 목적,B,['Economy']
+뒤바뀐 운명,C,"['Items', 'Scaling', 'Strategic']"
+또 다른 이상 현상,B,"['Combat', 'Scaling']"
+레벨 업!,B,['Economy']
+로켓 컬렉션,A,"['Combat', 'Economy']"
+로켓 컬렉션+,B,"['Combat', 'Economy']"
+마나순환 I,S,['Combat']
+마나순환 II,S,['Combat']
+마법 주사위,A,['Strategic']
+마법사 문장,S,['Economy']
+마법사 왕관,A,['Economy']
+마지막 손질,B,['Items']
+맑은 정신,C,['Economy']
+매복자 문장,A,['Economy']
+매복자 왕관,B,['Economy']
+맹렬한 공세,C,['Combat']
+먼 친구,B,['Combat']
+모두를 위한 하나 I,C,['Combat']
+모두를 위한 하나 II,C,['Combat']
+미래 지향적 사고,S,['Economy']
+미친 화학자,C,['Combat']
+반군 문장,A,['Scaling']
+반군 왕관,A,['Economy']
+반짝이는 것들,S,['Economy']
+반짝이는 것들+,S,['Economy']
+방랑하는 조련사 I,B,"['Combat', 'Strategic']"
+방랑하는 조련사 II,A,"['Combat', 'Strategic']"
+배부른 주문술사,B,['Combat']
+법 집행,B,"['Economy', 'Combat', 'Economy']"
+별이 빛나는 밤,S,['Economy']
+별이 빛나는 밤+,S,['Economy']
+보호막 강타,B,"['Combat', 'Economy']"
+복제,B,['Items']
+복제 시설,B,['Combat']
+부스러기,A,"['Items', 'Economy', 'Scaling']"
+부식,A,['Combat']
+분노 조절 문제,A,"['Items', 'Combat', 'Strategic']"
+불운 방지,A,['Combat']
+불장난,B,"['Items', 'Combat']"
+불타는 영혼 I,A,['Combat']
+불타는 영혼 II,S,['Combat']
+붉고 푸른 효과,B,"['Items', 'Economy']"
+빌붙기,A,['Combat']
+빛비늘 정수,A,"['Items', 'Economy']"
+빛의 속도,C,['Items']
+삼인방 I,B,"['Economy', 'Combat']"
+삼인방 II,B,"['Economy', 'Combat']"
+상점 오류,A,"['Economy', 'Scaling']"
+새로고침 이월,C,['Economy']
+새로고침의 날 I,S,['Economy']
+새로운 시대,A,['Economy']
+새로운 시대+,A,['Economy']
+생일 선물,B,['Economy']
+생존자,D,"['Economy', 'Scaling']"
+서열 상승 I,B,['Combat']
+서열 상승 II,B,['Combat']
+선도자 문장,A,['Economy']
+선도자 왕관,C,['Economy']
+수호자의 선택,B,"['Items', 'Scaling']"
+수호자의 친구,A,['Economy']
+수호자의 호의,B,"['Items', 'Scaling']"
+숭고한 희생,B,['Combat']
+슈퍼스타 I,B,['Combat']
+슈퍼스타 II,B,"['Economy', 'Combat', 'Scaling']"
+스승 I,B,['Economy']
+스승 II,A,['Combat']
+슬쩍하기,B,['Economy']
+시계태엽 윤활유,B,['Combat']
+신중한 제작,S,"['Items', 'Scaling']"
+실험체 문장,S,['Economy']
+실험체 왕관,A,['Economy']
+쓰레기 청소부,C,['Combat']
+아드레날린 폭발,C,"['Combat', 'Economy']"
+아이템 꾸러미 I,A,['Items']
+아이템 수집가 I,A,['Combat']
+아이템 수집가 II,A,['Combat']
+아이템 숙성,D,['Combat']
+아카데미 문장,B,['Economy']
+아카데미 왕관,C,['Economy']
+악의적 수익 창출,B,['Economy']
+야수를 풀어라,B,"['Items', 'Combat']"
+양보다 질,A,['Combat']
+어수선한 마음,C,['Economy']
+연결 불가,A,['Economy']
+연속 타격,A,['Combat']
+영감적인 비문,A,['Combat']
+영광스러운 진화,C,"['Items', 'Scaling', 'Strategic']"
+영웅 꾸러미,A,['Economy']
+영원한 브론즈 I,B,['Combat']
+영원한 브론즈 II,A,['Combat']
+예상된 예상 밖의 결과,S,"['Items', 'Economy', 'Strategic']"
+오늘은 아니야,B,"['Items', 'Combat']"
+왕관의 의지,B,"['Items', 'Combat']"
+요리용 냄비,S,"['Combat', 'Scaling', 'Strategic']"
+요지부동,S,['Combat']
+우정과 유령,S,['Combat']
+위력 강화,B,"['Scaling', 'Strategic']"
+위약 효과,C,"['Economy', 'Combat']"
+위약 효과+,A,"['Economy', 'Combat']"
+위험한 행보,B,['Economy']
+유리 대포 I,C,['Combat']
+유리 대포 II,A,['Combat']
+유연함,B,['Strategic']
+유용한 금속,A,"['Items', 'Combat']"
+육중한 강타,C,"['Combat', 'Economy']"
+은수저,B,['Economy']
+응당한 대가,C,['Economy']
+의무병,A,['Combat']
+이상한 금요일,B,['Items']
+이상한 금요일 +,C,['Items']
+이제 내가 주인공이야,B,['Combat']
+이중 기술,A,['Economy']
+이중 형태,A,"['Combat', 'Economy']"
+임무 재시작,S,['Economy']
+입맛대로 고르는 부품,A,['Items']
+자동기계 문장,B,['Economy']
+자동기계 왕관,C,['Economy']
+작은 친구들,A,['Combat']
+잔혹한 복수,S,['Combat']
+장기 투자,B,['Strategic']
+재빠른 무장,A,"['Items', 'Economy']"
+재빠른 무장+,A,"['Items', 'Economy']"
+재활용 쓰레기통,B,['Items']
+재활용 쓰레기통,A,['Items']
+재활용 쓰레기통+,B,['Items']
+저격수 문장,B,['Economy']
+저격수 왕관,A,['Economy']
+저격수의 은신처,B,"['Combat', 'Economy']"
+전략가의 주방,S,"['Items', 'Combat']"
+전리품 I,B,['Economy']
+전리품 II,C,['Economy']
+전리품 III,C,['Economy']
+전리품 폭발,A,"['Items', 'Economy']"
+전투의 상흔,C,['Combat']
+"젊음, 광란, 자유",C,"['Items', 'Economy']"
+점수판 등반가,B,"['Combat', 'Scaling']"
+점심값,C,['Economy']
+점화단 문장,B,['Economy']
+점화단 왕관,C,['Economy']
+정교한 공예,A,['Economy']
+정렬,B,['Combat']
+정복자 문장,B,['Economy']
+정복자 왕관,A,['Economy']
+정신 결속,B,['Combat']
+조작된 상점+,B,['Economy']
+종목 분산 투자,B,['Economy']
+종목 분산 투자+,B,['Economy']
+주사위 던지기,A,['Items']
+주시자 문장,A,['Economy']
+주시자 왕관,C,['Economy']
+죽음의 고통,B,"['Items', 'Scaling']"
+준비 운동 I,A,"['Combat', 'Scaling']"
+준비 운동 II,B,"['Combat', 'Scaling']"
+준비 운동 III,A,"['Combat', 'Scaling']"
+중심 잡기,C,['Combat']
+지배,B,"['Combat', 'Economy']"
+지배자 문장,A,['Economy']
+지배자 왕관,B,['Economy']
+지원 상자,A,['Combat']
+지원 채굴,A,['Combat']
+지원 채굴+,A,['Combat']
+진심 발휘,S,"['Combat', 'Strategic']"
+진정한 모습,C,"['Items', 'Scaling', 'Strategic']"
+집행자 문장,B,['Economy']
+집행자 왕관,B,['Economy']
+찬란한 유물,B,['Items']
+찬란한 재조정기,A,['Items']
+참는 자에게 복을,A,['Economy']
+창의 의지,B,"['Items', 'Combat']"
+철퇴의 의지,A,"['Items', 'Combat']"
+체력이 곧 재산 I,A,"['Economy', 'Combat']"
+체력이 곧 재산 II,A,"['Economy', 'Combat']"
+최대치,S,"['Economy', 'Combat']"
+출세가도,A,['Economy']
+출정,D,"['Items', 'Economy', 'Scaling']"
+친구 만들기!,B,"['Economy', 'Strategic']"
+큰 꾸러미,A,['Items']
+투사 문장,B,['Economy']
+투사 왕관,B,['Economy']
+투자 전략 I,A,"['Combat', 'Scaling']"
+투자 전략 II,S,"['Economy', 'Combat', 'Scaling']"
+투자+,B,['Economy']
+투자++,B,['Economy']
+트롤 나가신다,S,['Combat']
+특성 추적자,B,['Strategic']
+특성: 계엄령,S,"['Combat', 'Economy', 'Strategic']"
+특성: 또 다른 결말,A,"['Combat', 'Economy', 'Strategic']"
+특성: 뜻밖의 2인조,B,"['Combat', 'Economy', 'Strategic']"
+특성: 모략,A,"['Economy', 'Strategic']"
+특성: 배신,A,"['Combat', 'Economy', 'Strategic']"
+특성: 자매,B,"['Combat', 'Economy', 'Strategic']"
+특성: 재회,S,"['Combat', 'Economy', 'Strategic']"
+특성: 천재,B,"['Combat', 'Economy', 'Strategic']"
+파랗게 물들여라,S,"['Combat', 'Scaling']"
+파묻힌 보물 III,S,['Items']
+파이트 머니,B,['Items']
+판도라의 대기석,S,['Economy']
+판도라의 아이템,B,['Items']
+판도라의 아이템 II,B,"['Items', 'Scaling']"
+판도라의 아이템 III,B,['Items']
+편식,B,"['Economy', 'Strategic']"
+포수 문장,B,['Economy']
+포수 왕관,C,['Economy']
+포탑 방어,A,['Combat']
+프리즘 공급,B,"['Items', 'Economy', 'Scaling']"
+프리즘 티켓,A,['Economy']
+피나는 훈련,B,"['Combat', 'Economy']"
+핏빛 계약,A,['Combat']
+"하나, 둘, 다섯!",B,"['Items', 'Economy']"
+"하나, 둘, 셋",B,['Economy']
+학술 연구,A,"['Items', 'Economy']"
+행운의 장갑,S,['Items']
+행운의 장갑+,S,['Items']
+헤지 펀드,C,['Economy']
+협력 I,B,"['Items', 'Economy']"
+협력 II,A,"['Economy', 'Combat']"
+혼돈의 부름,S,['Strategic']
+환한 달빛,S,['Combat']
+황금 더미,C,['Economy']
+황금 알,C,"['Items', 'Economy', 'Scaling']"
+황금빛 발견,B,['Economy']
+후반 전문가,C,"['Economy', 'Scaling']"
+후발 주자,S,"['Scaling', 'Strategic']"
+후방 지원,C,['Combat']
+훈련 봇 변환,B,"['Combat', 'Strategic']"
+휴대용 대장간,S,['Items']
+흡혈의 활력,B,"['Combat', 'Strategic']"
+흥청망청,C,['Economy']
+희생양,B,['Economy']
