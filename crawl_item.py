@@ -3,7 +3,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
 import time
-driver = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+options.add_argument("--lang=ko-KR")
+driver = webdriver.Chrome(options=options)
 driver.implicitly_wait(10)
 #driver.get("https://www.metatft.com/units/Heimerdinger")
 #time.sleep(10) # for loading
@@ -25,7 +27,7 @@ def crawl_item(champion_name = "Heimerdinger"):
     for div in div_elements:
         if "The best items for "in div.text:
             print(div.text.split("\n")[1])
-            with open("tft_items_" + champion_name + ".txt", "a") as f:
+            with open("tft_items_" + champion_name + "_kr.txt", "a") as f:
                 f.write(div.text.split("\n")[1])
 
 def crawl_iteminfo():
@@ -50,6 +52,6 @@ def crawl_champname():
         with open("href_champnames.txt", "a") as f:
             f.write(href_value + "\n")
 
-#crawl_item("Heimerdinger")
+crawl_item("Heimerdinger")
 #crawl_champname()
-crawl_iteminfo()
+#crawl_iteminfo()
