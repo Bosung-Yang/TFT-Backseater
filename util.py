@@ -57,3 +57,65 @@ def remove_redundancy():
     df.to_csv('./data/augment-preprocessed.csv', index=False)
     
 #remove_redundancy()
+
+from torch import cuda, bfloat16
+import torch
+import transformers
+from transformers import AutoTokenizer, Gemma3ForConditionalGeneration
+from time import time
+import os 
+
+def load_phi4():
+    model_id = 'microsoft/phi-4'
+    bnb_config = transformers.BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type='nf4',
+        bnb_4bit_use_double_quant=True,
+        bnb_4bit_compute_dtype=bfloat16
+    )
+    model_config = transformers.AutoConfig.from_pretrained(
+        model_id,
+        trust_remote_code=True,
+        max_new_tokens=1024
+    )
+    model = transformers.AutoModelForCausalLM.from_pretrained(
+        model_id,
+        trust_remote_code=True,
+        #config=model_config,
+        #quantization_config=bnb_config,
+        #device_map='auto',
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    return model, tokenizer
+
+def load_model():
+    model_id = 'google/gemma-3-4b-it' #'microsoft/phi-4'
+    
+    bnb_config = transformers.BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type='nf4',
+        bnb_4bit_use_double_quant=True,
+        bnb_4bit_compute_dtype=bfloat16
+    )
+
+    model_config = transformers.AutoConfig.from_pretrained(
+        model_id,
+        trust_remote_code=True,
+        max_new_tokens=1024
+    )
+    model = Gemma3ForConditionalGeneration.from_pretrained(
+        model_id,
+        trust_remote_code=True,
+        #config=model_config,
+        #quantization_config=bnb_config,
+        #device_map='auto',
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    
+    return model, tokenizer
+
+def load_pretrained(model_name):
+    model = transformers.AutoModelForCausalLM.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    
+    return model, tokenizer
