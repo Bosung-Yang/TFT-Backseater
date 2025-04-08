@@ -40,6 +40,7 @@ def crawl_comp(target_rank = "S"):
         average_places.append(average_place)
         pick_rates.append(pick_rate)
         win_rates.append(win_rate)
+        print(deck_names)
     df = pd.DataFrame({
         "Rank": ranks,
         "Deck Name": deck_names,
